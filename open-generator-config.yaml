@@ -1,0 +1,4 @@
+# Config options for the dart generator
+pubName: tosdart
+pubVersion: 0.0.1
+pubDescription: "API Client for the TD Ameritrade API"
